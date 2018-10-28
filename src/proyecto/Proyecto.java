@@ -5,10 +5,7 @@
  */
 package proyecto;
 
-/**
- *
- * @author Usuario
- */
+
 public class Proyecto {
 
     /**
